@@ -19,7 +19,7 @@ Estágiario da Prodemge, formado em redes e arquitetura de computadores e técni
 ![Zabiix](https://img.shields.io/badge/Zabbix-000?style=for-the-badge&logo=Zabbix&logoColor=30A3DC)
 ![Spectrum](https://img.shields.io/badge/Spectrum-000?style=for-the-badge&logo=Spectrum&logoColor=30A3DC)
 ![CAPM](https://img.shields.io/badge/CAPM-000?style=for-the-badge&logo=CAPM&logoColor=30A3DC)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![Gi](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 
